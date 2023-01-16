@@ -1,0 +1,28 @@
+body {
+    background-image: url(perfect-green-grass.jpg);
+    background-size: 1000px;
+    color: white;
+    font-family: 'Figtree', 'Montserrat', sans-serif;
+    padding-top: 10%;
+    text-align: center;
+
+
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message {
+    font-family: 'Montserrat-Black';
+    font-size: 20px;
+}
+
+.btn {
+    color: #016f32;
+    width: 170px;
+    background-color: goldenrod;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 1%;
+}
