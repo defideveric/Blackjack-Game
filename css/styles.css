@@ -1,6 +1,7 @@
 body {
     background-image: url(../images/perfect-green-grass.jpg);
-    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-size: 1500px;
     color: white;
     font-family: 'Figtree', 'Montserrat', sans-serif;
     padding-top: 10%;
